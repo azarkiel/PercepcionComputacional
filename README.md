@@ -6,8 +6,8 @@ ACTIVIDAD 2. Caso grupal: Usos reales de filtros espaciales y morfológicos
 Miembros del equipo: María Pilar Madariaga Lasala, Antonio José Ruz Hervás, Leonardo Gamboa Uribe, Francisco Rubén Arenas Hernán
 
 
-Resumen 
-El problema escogido para la realización de esta práctica es el reconocimiento de matrículas de coches en imágenes.
+<p>Resumen 
+<p>El problema escogido para la realización de esta práctica es el reconocimiento de matrículas de coches en imágenes.
 Este es un tema ampliamente estudiado en el campo de visión por computador. 
 Sus implementaciones se aplican, por ejemplo, en monitorización y control del flujo de tráfico, en control automático de acceso a recintos cerrados, o en identificación automática de vehículos infractores de normas viales.
 El objetivo central de esta actividad es la detección de la región de imagen correspondiente a matrículas de coche.
